@@ -3,12 +3,14 @@ Analysis of Peloton's 10-K data set-For their fiscal year 2023
 This repository contains data, analytic code, and findings that support portions of a corporate strategy article in process, soon to be pubished at Times Square Investment Journal. Please read that article, which contains important context and details, before proceeding. 
 
 Data
+
 This analysis uses a pdf version of Peloton's filings with the SEC.
 •Name of source:
   •pton-10k.pdf: Raw data of Peloton's 10-K
 The pdf is 198 pages long and there is relevant information about Peloton's financial health. 
 
 Methodology
+
 The notebook first draft analysis.ipynb performs the following analyses:
 
 Part 1: Scraping pdf
